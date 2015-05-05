@@ -2,7 +2,7 @@
 Contributors: primestrategy, Kengyu Nakamura, jim912, tajima_taso, modshrink
 Tags: debug, tools, develop, study
 Requires at least: 3.3
-Tested up to: 4.1.2
+Tested up to: 4.2.1
 Stable tag: 1.0.5
 License: GPLv2 or later
 
